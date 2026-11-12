@@ -5,41 +5,36 @@
 &nbsp;
 
 ### About Me: 🙋‍♂️
-- 🎓 I'm currently pursuing **[YOUR DEGREE]** at **[YOUR INSTITUTION]**
+- 🎓 I'm currently pursuing **B.E in CSE** at **St. Joseph's College of Engineering**
 
 - 🌱 I'm currently learning **Full Stack Development (MERN Stack)**
 
 - 💭 Ask me about **Backend Development, MERN Stack, Data Structures & Algorithms**
 
-- 📫 How to reach me **[YOUR_EMAIL@example.com]**
+- 📫 How to reach me **harishbalajir2008@gmail.com**
 
-- ✍️ I write tech blogs here <a href="[YOUR_BLOG_URL]" target="_blank">**[YOUR_BLOG_DOMAIN]**</a>
-
-- 🎯 Checkout my portfolio <a href="[YOUR_PORTFOLIO_URL]" target="_blank">**here**</a>
+- 🎯 Checkout my portfolio <a href="https://harishbalajir.vercel.app" target="_blank">**here**</a>
 
 - 🧠 Code is poetry written in logic
 
 <h3 align="left">Connect with me: 👨‍💻</h3>
 <p align="left">
-<a href="[YOUR_LINKEDIN_URL]" target="_blank">
+<a href="https://www.linkedin.com/in/harishbalajir/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Harish Balaji" height="30" width="30" hspace="10" />
 </a>
-<a href="https://www.hackerrank.com/[YOUR_HACKERRANK_USERNAME]" target="_blank">
+<a href="https://www.hackerrank.com/profile/hariahbalaji672" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" hspace="10" />
 </a>
-<a href="https://leetcode.com/[YOUR_LEETCODE_USERNAME]/" target="_blank">
+<a href="https://leetcode.com/u/HarishBalajiR/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="30" hspace="10" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/[YOUR_GFG_USERNAME]/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="40" width="40" hspace="10" />
-</a>
-<a href="https://www.codechef.com/users/[YOUR_CODECHEF_USERNAME]" target="_blank">
+<a href="https://www.codechef.com/users/harishbalajir" target="_blank">
   <img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Codechef" height="50" width="50" hspace="10" />
 </a>
-<a href="https://codeforces.com/profile/[YOUR_CODEFORCES_USERNAME]" target="_blank">
+<a href="https://codeforces.com/profile/HarishBalajiR" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" hspace="10" />
 </a>
-<a href="https://atcoder.jp/users/[YOUR_ATCODER_USERNAME]" target="_blank">
+<a href="https://atcoder.jp/users/HarishBalajiR" target="_blank">
   <img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" height="40" width="40" hspace="10" />
 </a>
 </p>
@@ -100,10 +95,6 @@
 
 <hr>
 
-<div align="center">
-<img src="https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif" align="center" style="width: 50%" />
-</div>
-  
 <div>
     <p align="center"> 
       <br> <br> 
